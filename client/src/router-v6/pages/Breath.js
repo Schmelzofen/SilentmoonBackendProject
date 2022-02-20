@@ -22,7 +22,7 @@ const Breath = () => {
     const fetchedData = async () => {
       try {
         const responseData = await sendRequest(
-          `http://localhost:3000/api/mood/${filterValue}`
+          `/api/mood/${filterValue}`
         );
         setFetchedMusic(() => responseData.body.playlists.items);
       } catch (e) { }

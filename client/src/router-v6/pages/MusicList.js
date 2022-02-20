@@ -29,7 +29,7 @@ const MusicList = () => {
     const fetchedData = async () => {
       try {
         const responseData = await sendRequest(
-          `http://localhost:3000/api/playlist/${lid}`
+          `/api/playlist/${lid}`
         );
         console.log(responseData);
         setFetchedMusic(responseData);
@@ -57,10 +57,9 @@ const MusicList = () => {
   };
 
   const secondClick = async () => {
-    console.log(tokenCtx.token)
     try {
       await sendRequest(
-        "http://localhost:3000/api/favorite",
+        "/api/favorite",
         "POST",
         JSON.stringify({
           id: fetchedMusic?.body.id,
@@ -70,7 +69,6 @@ const MusicList = () => {
         }),
         { "Content-Type": "application/json" }
       );
-      console.log(tokenCtx.token)
     } catch (e) {
       console.log(e)
     }
