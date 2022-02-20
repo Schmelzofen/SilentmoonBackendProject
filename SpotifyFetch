@@ -1,0 +1,17 @@
+        // Track von einer Playlist
+            spotifyApi.getPlaylist('37i9dQZF1DX9uKNf5jGX6m')
+                .then(function (data) {
+                    const obj = {
+                        artist: data.body.tracks.items[0].track.album.artists[0].name,
+                        title: data.body.tracks.items[0].track.album.name,
+                        image: data.body.tracks.items[0].track.album.images[0].url,
+                        preview_url: data.body.tracks.items[0].track.preview_url,
+                        duration: (data.body.tracks.items[0].track.duration_ms / 1000 / 60).toFixed(2) + " min"
+                    }
+                    res.send(obj)
+                }, function (err) {
+                    console.log('Something went wrong!', err);
+                });
+
+        // get Playlist
+        
