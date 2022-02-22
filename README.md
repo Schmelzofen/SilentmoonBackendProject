@@ -4,7 +4,7 @@
 
 Eine App, die Musik für Yoga und Meditation je nach Stimmung vorschlägt.
 
-Nutzer_innen können sich registrieren und ein Profil erstellen, dort Favoriten hinterlegen, ihre Daten einsehen, ändern (Passwort, Bild hochladen), sich Playlists vorschlagen lassen und Musik abspielen lassen.
+Nutzer_innen können sich registrieren und ein Profil erstellen, dort Favoriten hinterlegen, ihre Daten einsehen, ändern (Passwort, Bild hochladen), sich Playlists vorschlagen und Musik abspielen lassen.
 
 
 ## Umsetzung 
@@ -20,14 +20,14 @@ Weil Spotify selbst ein Einloggen verlangt, sind die Spotify-Daten nicht frei ab
 
 ### Einige Screenshots der User-Interface der App
 
-![](./screenshots/login.png)
-![](./screenshots/signIn.png)
-![](./screenshots/signUp.png)
-![](./screenshots/welcome.png)
-![](./screenshots/home.png)
-![](./screenshots/meditationDetails.png)
-![](./screenshots/meditationPlayer.png)
-![](./screenshots/reminders.png)
+![](./screenshots/login.jpg)
+![](./screenshots/signIn.jpg)
+![](./screenshots/signUp.jpg)
+![](./screenshots/welcome.jpg)
+![](./screenshots/home.jpg)
+![](./screenshots/meditationDetails.jpg)
+![](./screenshots/meditationPlayer.jpg)
+![](./screenshots/reminders.jpg)
 
 
 ## Team
