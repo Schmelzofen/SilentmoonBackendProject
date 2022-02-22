@@ -37,5 +37,5 @@ Weil Spotify selbst ein Einloggen verlangt, sind die Spotify-Daten nicht frei ab
 
 :flamingo: [Julia Rinzilotti](https://github.com/JuliaRinzilotti) <br />
 
-:parrot: [Lukas Schornstein](https://github.com/LukasSchornstein) <br />
+:parrot: [Lukas Schornstein](https://github.com/lukechimney) <br />
 
