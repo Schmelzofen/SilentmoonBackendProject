@@ -30,11 +30,11 @@ Weil Spotify selbst ein Einloggen verlangt, sind die Spotify-Daten nicht frei ab
 ![](./screenshots/reminders.jpg)
 
 
-<p float="left">
-  <img src="./screenshots/login.jpg" width="200" />
-  <img src="./screenshots/signIn.jpg" width="200" /> 
-  <img src="./screenshots/signUp.jpg" width="200" />
-</p>
+<div float="center">
+  <img src="./screenshots/login.jpg" width="220" />
+  <img src="./screenshots/signIn.jpg" width="220" /> 
+  <img src="./screenshots/signUp.jpg" width="220" />
+</div>
 
 ## Team
 
