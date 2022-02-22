@@ -18,11 +18,9 @@ Die App wurde realisiert mit Hilfe von
 
 Weil Spotify selbst ein Einloggen verlangt, sind die Spotify-Daten nicht frei abrufbar (und ein Push auf Heroku bspw. nicht möglich). Die Daten speisen sich hier folglich aus dem Local Storage. Das wäre in der Realität nicht funktional.
 
-### Einige Screenshots der User-Interface der App
+### Einige Screenshots des User-Interface der App
 
-![](./screenshots/login.jpg)
-![](./screenshots/signIn.jpg)
-![](./screenshots/signUp.jpg)
+![](./screenshots/login.jpg) | ![](./screenshots/signIn.jpg) | ![](./screenshots/signUp.jpg)
 ![](./screenshots/welcome.jpg)
 ![](./screenshots/home.jpg)
 ![](./screenshots/meditationDetails.jpg)
