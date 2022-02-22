@@ -1,24 +1,24 @@
-# Silent Moon – die Musik-App für Yoga und Meditation
+# Silent Moon – the music app for yoga and meditation
 
-## Idee
+## Idea
 
-Eine App, die Musik für Yoga und Meditation je nach Stimmung vorschlägt.
+An app that suggests music for yoga and meditation depending on a chosen mood.
 
-Nutzer_innen können sich registrieren und ein Profil erstellen, dort Favoriten hinterlegen, ihre Daten einsehen, ändern (Passwort, Bild hochladen), sich Playlists vorschlagen und Musik abspielen lassen.
+Users can register and create a profile, save favorites, view and change their data (password, upload picture), suggest playlists and play music.
 
 
-## Umsetzung 
+## Implementation 
 
-Die App wurde realisiert mit Hilfe von 
+The app was realized with
 - HTML
 - CSS
-- Git und des 
-- MERN-Stacks (MongoDB, Express, React, NodeJS)
-- Spotify-API.
+- Git
+- MERN stack (MongoDB, Express, React, NodeJS)
+- Spotify API.
 
-Weil Spotify selbst ein Einloggen verlangt, sind die Spotify-Daten nicht frei abrufbar (und ein Push auf Heroku bspw. nicht möglich). Die Daten speisen sich hier folglich aus dem Local Storage. Das wäre in der Realität nicht funktional.
+Because Spotify itself requires a login, the Spotify data is not freely accessible (and a push to Heroku, for example, is not possible). The data is therefore fed from the local storage. This would not be functional in reality.
 
-### Einige Screenshots des User-Interface der App
+### Some screenshots of the app's user interface
 
 <div align="center">
     <img src="./screenshots/login.jpg" width="220" />
