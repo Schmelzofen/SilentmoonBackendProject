@@ -31,9 +31,9 @@ Weil Spotify selbst ein Einloggen verlangt, sind die Spotify-Daten nicht frei ab
 
 
 <p float="left">
-  <img src="./screenshots/login.jpg" width="100" />
-  <img src="./screenshots/signIn.jpg" width="100" /> 
-  <img src="./screenshots/signUp" width="100" />
+  <img src="./screenshots/login.jpg" width="200" />
+  <img src="./screenshots/signIn.jpg" width="200" /> 
+  <img src="./screenshots/signUp.jpg" width="200" />
 </p>
 
 ## Team
