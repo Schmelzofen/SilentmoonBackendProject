@@ -27,7 +27,7 @@ const Home = () => {
     // fetch fur yoga data
     const fetchedYogaData = async () => {
       try {
-        const responseData = await sendRequest("/api/get/yoga");
+        const responseData = await sendRequest("http://localhost:3000/api/get/yoga");
         console.log(responseData)
         setFetchedYogaMusic(responseData);
       } catch (e) { }
@@ -35,7 +35,7 @@ const Home = () => {
     // fetch fur meditation
     const fetchedMediData = async () => {
       try {
-        const responseData = await sendRequest("/api/get/meditation");
+        const responseData = await sendRequest("http://localhost:3000/api/get/meditation");
         setFetchedMediMusic(responseData);
       } catch (e) { }
     };
@@ -47,7 +47,7 @@ const Home = () => {
       if (id) {
         console.log(id)
         try {
-          const responseData = await sendRequest(`/api/favorite/${id}`);
+          const responseData = await sendRequest(`http://localhost:3000/api/favorite/${id}`);
 
           setFetchedFavMusic(() => responseData.list);
         } catch (e) { }

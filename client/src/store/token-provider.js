@@ -28,7 +28,7 @@ export const TokenContentProvider = (props) => {
     console.log("login", data);
     try {
       const responseData = await sendRequest(
-        "/auth/login",
+        "http://localhost:3000/auth/login",
         "POST",
         JSON.stringify({
           email: data.email,
@@ -57,7 +57,7 @@ export const TokenContentProvider = (props) => {
       const convertedImage = await Convert(data.picture[0])
       console.log(convertedImage)
       const responseData = await sendRequest(
-        "/auth/registration",
+        "http://localhost:3000/auth/registration",
         "POST",
         JSON.stringify({
           email: data.email,
