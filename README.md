@@ -20,13 +20,21 @@ Weil Spotify selbst ein Einloggen verlangt, sind die Spotify-Daten nicht frei ab
 
 ### Einige Screenshots des User-Interface der App
 
-![](./screenshots/login.jpg) | ![](./screenshots/signIn.jpg) | ![](./screenshots/signUp.jpg)
+![](./screenshots/login.jpg)
+![](./screenshots/signIn.jpg) 
+![](./screenshots/signUp.jpg)
 ![](./screenshots/welcome.jpg)
 ![](./screenshots/home.jpg)
 ![](./screenshots/meditationDetails.jpg)
 ![](./screenshots/meditationPlayer.jpg)
 ![](./screenshots/reminders.jpg)
 
+
+<p float="left">
+  <img src="./screenshots/login.jpg" width="100" />
+  <img src="./screenshots/signIn.jpg" width="100" /> 
+  <img src="./screenshots/signUp" width="100" />
+</p>
 
 ## Team
 
