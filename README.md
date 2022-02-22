@@ -7,7 +7,7 @@ Eine App, die Musik für Yoga und Meditation je nach Stimmung vorschlägt.
 Nutzer_innen können sich registrieren und ein Profil erstellen, dort Favoriten hinterlegen, ihre Daten einsehen, ändern (Passwort, Bild hochladen), sich Playlists vorschlagen lassen und Musik abspielen lassen.
 
 
-## Umsetzung
+## Umsetzung 
 
 Die App wurde realisiert mit Hilfe von 
 - HTML
