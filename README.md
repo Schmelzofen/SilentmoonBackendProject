@@ -16,7 +16,6 @@ The app was realized with
 - MERN stack (MongoDB, Express, React, NodeJS)
 - Spotify API.
 
-<br>
 
 ## Link to App
 
