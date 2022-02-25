@@ -1,5 +1,7 @@
-# Silent Moon – the music app for yoga and meditation
+# Silent Moon – the App for Yoga and Meditation
+
 <br>
+
 ## Idea
 
 An app that suggests music for yoga and meditation depending on a chosen mood.
