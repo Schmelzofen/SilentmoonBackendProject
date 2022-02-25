@@ -16,7 +16,7 @@ The app was realized with
 - MERN stack (MongoDB, Express, React, NodeJS)
 - Spotify API.
 
-### [S I L E N T  M O O N](https://silentmoonproject.herokuapp.com/) The App for Yoga and Meditation.
+Link to [S I L E N T  M O O N](https://silentmoonproject.herokuapp.com/) – The App for Yoga and Meditation.
 
 
 ### Some screenshots of the app's user interface
