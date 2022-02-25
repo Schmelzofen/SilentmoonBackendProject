@@ -16,7 +16,8 @@ The app was realized with
 - MERN stack (MongoDB, Express, React, NodeJS)
 - Spotify API.
 
-Because Spotify itself requires a login, the Spotify data is not freely accessible (and a push to Heroku, for example, is not possible). The data is therefore fed from the local storage. This would not be functional in reality.
+# [S I L E N T  M O O N](https://silentmoonproject.herokuapp.com/) The App for Yoga and Meditation.
+
 
 ### Some screenshots of the app's user interface
 
