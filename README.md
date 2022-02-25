@@ -1,5 +1,5 @@
 # Silent Moon – the music app for yoga and meditation
-
+<br>
 ## Idea
 
 An app that suggests music for yoga and meditation depending on a chosen mood.
@@ -26,7 +26,6 @@ here: [SilentMoon](https://silentmoonproject.herokuapp.com/) – The App for Yog
 
 <div align="center">
     <img src="./screenshots/login.jpg" width="220" />
-    <img src="./screenshots/signUp.jpg" width="220" />
     <img src="./screenshots/reminders.jpg" width="220" />
     <img src="./screenshots/home.jpg" width="220" />
     <img src="./screenshots/meditationDetails.jpg" width="220" />
